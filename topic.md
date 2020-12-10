@@ -1,0 +1,1 @@
+Tires are super expensive and go up in price based on speed and load rating.
